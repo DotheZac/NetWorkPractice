@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "새 프로필",
+    "Projects": [
+      {
+        "Path": "D3DBoxApp\\D3DBoxApp.vcxproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Server\\Server.vcxproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
